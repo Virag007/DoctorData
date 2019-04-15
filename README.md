@@ -1,5 +1,5 @@
 # DoctorData
-![Image of DoctorData](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjDUM_Q3lovkXuHXrlc63H5I13tDtikbbsk8AcIpSBnU3bG8Q3iJqk8Q)
+![Image of DoctorData](http://medical3danimationcompany.com/wp-content/uploads/surgical-3d-medical-animation-doctor-rendering-character-mascot-san-antonio-healthcare-3d-visualization-284x300.png)
 
 This project focuses on the prediction of doctor details along with their location who are perfect for the user inputted disease. It is a software application (written on python) intended to be used by user for doctor prediction along with disease information, booking the appointment with respective doctors and medicine substitute finder. User will get the graphical interface that will ease the mechanism.
 
