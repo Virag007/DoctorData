@@ -1,0 +1,2 @@
+# DoctorData
+This project focuses on the prediction of doctor details along with their location who are perfect for the user inputted disease. It is a software application (written on python) intended to be used by user for doctor prediction along with disease information, booking the appointment with respective doctors and medicine substitute finder. User will get the graphical interface that will ease the mechanism.
