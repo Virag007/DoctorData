@@ -39,8 +39,6 @@ def pop5():
     label=Label(root,text='This software is reserved to Doctor Data Inc.',bg="#004080",fg='#ffffff',font='Helvetica 9 bold').place(x=10,y=10)
     label=Label(root,text='Credits:---',bg="#004080",fg='#ffffff',font='Helvetica 9 bold').place(x=10,y=50)
     label=Label(root,text='Parag Thakur',bg="#004080",fg='#ffffff').place(x=10,y=70)
-    label=Label(root,text='Gourav Saha',bg="#004080",fg='#ffffff').place(x=10,y=90)
-    label=Label(root,text='Shweta Kundru',bg="#004080",fg='#ffffff').place(x=10,y=110)
     root.resizable(width=False, height=False)
     root.mainloop()
     
